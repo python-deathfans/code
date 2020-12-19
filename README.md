@@ -1,4 +1,4 @@
 # code
-日常练习的代码会push上来，包括之前的python爬虫代码
+个人网站：**www.nbuyy515.top**。
 
-**www.nbuyy515.top**
+记录一些投资、理财、python、数据分析等小知识。
